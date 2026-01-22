@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-01-22T07:40:04.921027Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-22T07:40:04.952321Z",
+      "mimetype": null,
+      "name": "lunar_mapping",
+      "path": "files\\rasters/lunar_mapping",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-01-22T07:40:04.921027Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-01-22T07:40:04.921027Z",
+  "mimetype": null,
+  "name": "files\\rasters",
+  "path": "files\\rasters",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
