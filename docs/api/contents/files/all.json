@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-01-22T08:02:46.056250Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-15T13:33:01.776571Z",
+      "mimetype": "application/vnd.ms-excel",
+      "name": "assay.csv",
+      "path": "files/assay.csv",
+      "size": 450433,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-22T08:02:46.066257Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-15T13:33:01.892989Z",
+      "mimetype": "application/vnd.ms-excel",
+      "name": "earthquakes.csv",
+      "path": "files/earthquakes.csv",
+      "size": 896303,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-22T08:02:46.066257Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-22T08:02:46.066257Z",
+      "mimetype": null,
+      "name": "rasters",
+      "path": "files/rasters",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-22T08:02:46.066257Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-24T03:26:42.232199Z",
+      "mimetype": "application/vnd.ms-excel",
+      "name": "rocks.csv",
+      "path": "files/rocks.csv",
+      "size": 1480404,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-01-22T08:02:46.056250Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-01-22T08:02:46.066257Z",
+  "mimetype": null,
+  "name": "files",
+  "path": "files",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
