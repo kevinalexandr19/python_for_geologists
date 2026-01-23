@@ -2,8 +2,11 @@
 
 <h3 align="center"> Version 1.0 (January 2026) </h3>
 
-> Si tienes cuenta en Github, no olvides darle una estrella al proyecto para que siga creciendo ⭐
-***
+<br>
+
+> If you have a GitHub account, don’t forget to give the project a star ⭐ to help it grow
+
+---
 
 <img src="notebooks/resources/cover.png" alt="cover" width="1400"/>
 
