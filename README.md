@@ -8,6 +8,6 @@
 
 ---
 
-<img src="notebooks/resources/cover.png" alt="cover" width="1400"/>
+<img src="content/resources/cover.png" alt="cover" width="1400"/>
 
 ***
