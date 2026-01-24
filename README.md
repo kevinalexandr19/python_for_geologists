@@ -19,7 +19,7 @@
 ***
 
 ## **Try the code without installing Python !!!**
-Use the JupyterLite application by clicking [here](https://kevinalexandr19.github.io/python_for_geologists/lab/index.html?path=pg000_start.ipynb)
+Use the JupyterLite application by clicking [here](https://kevinalexandr19.github.io/python_for_geologists/lab/index.html?path=0_start.ipynb)
 
 ***
 ## Description
