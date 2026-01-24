@@ -41,19 +41,19 @@ It is recommended to download the repository content and use it as a template to
 
 - **Fundamentals of Python**
   - **Fundamentals of programming**
-    - [Variables](1a_variables.ipynb) ✔️
-    - [How to show a result in Python?](1b_print.ipynb) ✔️
-    - [Computational logic](1c_logic.ipynb) ✔️
-    - [Data structures](1d_structures.ipynb) ✔️
-    - [Task automation](1e_automation.ipynb) ✔️
-    - [Object-oriented programming](1f_objects.ipynb) ✔️
-    - [Reserved words in Python](1g_reserved_words.ipynb) ✔️
+    - [Variables](content/1a_variables.ipynb) ✔️
+    - [How to show a result in Python?](content/1b_print.ipynb) ✔️
+    - [Computational logic](content/1c_logic.ipynb) ✔️
+    - [Data structures](content/1d_structures.ipynb) ✔️
+    - [Task automation](content/1e_automation.ipynb) ✔️
+    - [Object-oriented programming](content/1f_objects.ipynb) ✔️
+    - [Reserved words in Python](content/1g_reserved_words.ipynb) ✔️
   - **Core libraries**
-    - [Numpy](2a_numpy.ipynb) ✔️
-    - [Pandas](2b_pandas.ipynb) ✔️
-    - [Matplotlib](2c_matplotlib.ipynb) ✔️
+    - [Numpy](content/2a_numpy.ipynb) ✔️
+    - [Pandas](content/2b_pandas.ipynb) ✔️
+    - [Matplotlib](content/2c_matplotlib.ipynb) ✔️
   - **Hands-on practice**
-    - [Exercises](5a_exercises.ipynb) ✔️
+    - [Exercises](content/5a_exercises.ipynb) ✔️
 - **Statistics**
   - **Fundamentals of statistics**
     - Descriptive statistics ⏳
