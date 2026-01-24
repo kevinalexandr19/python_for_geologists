@@ -37,7 +37,7 @@ Perseverance is also important to learn each topic, as well as creativity to sol
 All chapters are available in the repository as Jupyter notebooks (`.ipynb`).  
 It is recommended to download the repository content and use it as a template to develop your own notebooks.
 
-> Introductory notebooks are ready (✔️), the advanced notebooks are still under development (⏳).
+> Introductory notebooks are ready (✔️), advanced notebooks are still under development (⏳).
 
 - **Fundamentals of Python**
   - **Fundamentals of programming**
