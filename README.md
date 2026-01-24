@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Python%20for%20Geologists-nl-🌍💻🐍⛏️&fontSize=50&fontAlignY=40&desc=v1.0%20(January%202026)&descSize=22&descAlignY=90&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Python%20for%20Geologists-nl-🌍💻🐍⛏️&fontSize=50&fontAlignY=40&desc=v1.0%20(January%202026)&descSize=22&descAlignY=90&fontColor=FFFFFF"
+       width="100%"
+       style="pointer-events: none;" />
 </p>
 
 <!-- <h1 align="center"> Python for Geologists</h1>
